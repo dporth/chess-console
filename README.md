@@ -1,3 +1,3 @@
 # Design
 
-![](./images/program-flow.PNG)  
+![](./images/program-design-logic.PNG)  
