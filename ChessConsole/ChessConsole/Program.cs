@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ChessBoard
+namespace ChessConsole
 {
     class Program
     {
