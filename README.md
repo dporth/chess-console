@@ -11,3 +11,7 @@ Attributes and behaviors of a chess piece
 - [ ] Move type  
 - [ ] Has moved  
 - [ ] Current position  
+
+## Game Properties
+### GameProperties.cs
+- [ ] Chess game colors
