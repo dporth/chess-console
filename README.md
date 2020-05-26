@@ -6,12 +6,12 @@
 ## Chess Piece
 ### Piece.cs  
 Abstract class to define/implement <b>core</b> states and behaviors among all chess pieces  
-- [ ] Piece color  
+- [x] Piece color  
 - [ ] Move type  
 - [ ] Has moved  
-- [ ] Current position  
+- [x] Current position  
 
 ## Game Properties
 ### GameProperties.cs
-- [ ] Chess game colors
-- [ ] Chess board square notations
+- [x] Chess game colors
+- [x] Chess board square notations
