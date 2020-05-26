@@ -1,12 +1,11 @@
 # Design
 
-## Game Flow
+## General Game Flow
 ![](./images/program-design-logic.PNG)  
 
 ## Chess Piece
 ### Piece.cs  
-Abstract class to define <b>core</b> states and behaviors among all chess pieces  
-Attributes and behaviors of a chess piece  
+Abstract class to define/implement <b>core</b> states and behaviors among all chess pieces  
 - [ ] Piece color  
 - [ ] Move type  
 - [ ] Has moved  
