@@ -7,7 +7,13 @@ namespace ChessConsole
 {
     public abstract class Piece
     {
-        public GameColor pieceColor
+        public ChessGameColor pieceColor
+        {
+            private set;
+            get;
+        }
+
+        public ChessBoardCoordinate pieceCoordinate
         {
             private set;
             get;

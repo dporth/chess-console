@@ -1,0 +1,13 @@
+C:\Users\desap\repos\chess-console\ChessConsole\ChessConsole\bin\Debug\netcoreapp3.1\ChessConsole.exe
+C:\Users\desap\repos\chess-console\ChessConsole\ChessConsole\bin\Debug\netcoreapp3.1\ChessConsole.deps.json
+C:\Users\desap\repos\chess-console\ChessConsole\ChessConsole\bin\Debug\netcoreapp3.1\ChessConsole.runtimeconfig.json
+C:\Users\desap\repos\chess-console\ChessConsole\ChessConsole\bin\Debug\netcoreapp3.1\ChessConsole.runtimeconfig.dev.json
+C:\Users\desap\repos\chess-console\ChessConsole\ChessConsole\bin\Debug\netcoreapp3.1\ChessConsole.dll
+C:\Users\desap\repos\chess-console\ChessConsole\ChessConsole\bin\Debug\netcoreapp3.1\ChessConsole.pdb
+C:\Users\desap\repos\chess-console\ChessConsole\ChessConsole\obj\Debug\netcoreapp3.1\ChessConsole.csprojAssemblyReference.cache
+C:\Users\desap\repos\chess-console\ChessConsole\ChessConsole\obj\Debug\netcoreapp3.1\ChessConsole.AssemblyInfoInputs.cache
+C:\Users\desap\repos\chess-console\ChessConsole\ChessConsole\obj\Debug\netcoreapp3.1\ChessConsole.AssemblyInfo.cs
+C:\Users\desap\repos\chess-console\ChessConsole\ChessConsole\obj\Debug\netcoreapp3.1\ChessConsole.csproj.CoreCompileInputs.cache
+C:\Users\desap\repos\chess-console\ChessConsole\ChessConsole\obj\Debug\netcoreapp3.1\ChessConsole.dll
+C:\Users\desap\repos\chess-console\ChessConsole\ChessConsole\obj\Debug\netcoreapp3.1\ChessConsole.pdb
+C:\Users\desap\repos\chess-console\ChessConsole\ChessConsole\obj\Debug\netcoreapp3.1\ChessConsole.genruntimeconfig.cache
