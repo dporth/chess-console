@@ -14,3 +14,4 @@ Abstract class to define/implement <b>core</b> states and behaviors among all ch
 ## Game Properties
 ### GameProperties.cs
 - [ ] Chess game colors
+- [ ] Chess board square notations
