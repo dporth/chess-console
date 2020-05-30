@@ -7,9 +7,13 @@
 ### Piece.cs  
 Abstract class to define/implement <b>core</b> states and behaviors among all chess pieces  
 - [x] Piece color  
-- [ ] Move type  
-- [ ] Has moved  
+- [ ] Piece move type  
 - [x] Current position  
+
+#### King.cs and Rook.cs
+Piece with specific states and behaviros unique to the chess peice
+- [ ] Has moved
+- [ ] Queen/King side castle
 
 ## Game Properties
 ### GameProperties.cs
