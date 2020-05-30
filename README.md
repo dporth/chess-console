@@ -19,4 +19,4 @@ Piece with specific states and behaviros unique to the chess peice
 ### GameProperties.cs
 - [x] Chess game colors
 - [x] Chess board square notations
-- [ ] Chess board coordinates
+- [x] Chess board file numbers
