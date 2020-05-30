@@ -13,7 +13,7 @@ namespace ChessConsole
             get;
         }
 
-        public ChessBoardNotation pieceCoordinate
+        public Square pieceSquare
         {
             protected set;
             get;
@@ -25,10 +25,11 @@ namespace ChessConsole
             get;
         }
 
-        public Piece(ChessBoardColor color, IEnumerable<Tuple<int, int>> moves)
+        public Piece(ChessBoardColor color, IEnumerable<Tuple<int, int>> moves, Square square)
         {
             pieceColor = color;
             pieceMoveType = moves;
+            pieceSquare = square;
         }
 
     }
