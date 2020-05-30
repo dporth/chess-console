@@ -8,7 +8,8 @@
 Abstract class to define/implement <b>core</b> states and behaviors among all chess pieces  
 - [x] Piece color  
 - [ ] Piece move type  
-- [x] Current position  
+- [x] Current position
+- [ ] Calculate possible piece moves
 
 #### King.cs and Rook.cs
 Piece with specific states and behaviros unique to the chess peice
