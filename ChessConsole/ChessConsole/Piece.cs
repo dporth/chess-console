@@ -7,16 +7,29 @@ namespace ChessConsole
 {
     public abstract class Piece
     {
-        public ChessGameColor pieceColor
+        public ChessBoardColor pieceColor
         {
             private set;
             get;
         }
 
-        public ChessBoardCoordinate pieceCoordinate
+        public ChessBoardNotation pieceCoordinate
+        {
+            protected set;
+            get;
+        }
+       
+        public IEnumerable<Tuple<int, int>> pieceMoveType
         {
             private set;
             get;
         }
+
+        public Piece(ChessBoardColor color, IEnumerable<Tuple<int, int>> moves)
+        {
+            pieceColor = color;
+            pieceMoveType = moves;
+        }
+
     }
 }
