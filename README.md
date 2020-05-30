@@ -12,7 +12,7 @@ Abstract class to define/implement <b>core</b> states and behaviors among all ch
 - [ ] Possible piece moves
 
 #### King.cs and Rook.cs
-Piece with specific states and behaviros unique to the chess peice
+Piece with specific states and behaviros unique to that chess peice
 - [ ] Has moved
 - [ ] Queen/King side castle
 
