@@ -19,18 +19,34 @@ namespace ChessConsole
             get;
         }
        
-        public IEnumerable<Tuple<int, int>> pieceMoveType
+        public Boolean hasMoved
         {
-            private set;
+            protected set;
             get;
         }
 
-        public Piece(ChessBoardColor color, IEnumerable<Tuple<int, int>> moves, Square square)
+        public List<ChessBoardNotation> piecePossibleMoves
         {
-            pieceColor = color;
-            pieceMoveType = moves;
-            pieceSquare = square;
+            protected set;
+            get;
         }
 
+        public List<Tuple<int, int>> pieceMoveType
+        {
+            protected set;
+            get;
+        }
+
+        public Piece(ChessBoardColor color, Square startingSquare)
+        {
+            pieceColor = color;
+            pieceSquare = startingSquare;
+        }
+
+        override
+        public String ToString()
+        {
+            return " ";
+        }
     }
 }

@@ -8,7 +8,7 @@ namespace ChessConsole
     {
         public Piece squarePiece
         {
-            protected set;
+            set;
             get;
         }
 
